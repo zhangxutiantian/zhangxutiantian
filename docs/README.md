@@ -1,6 +1,5 @@
-
-# 医药相关：
-
+手机点击左下角↙️![I](/图/更多.jpeg)查看更多。
+### 医药相关：
 > [**中国药典**](https://db.ouryao.com) 药典及地方炮规查询工具。
 > 
 > [**中药饮片医保目录**](http://www.nhsa.gov.cn/module/download/downfile.jsp?classid=0&filename=f8ece5b4d0464b59ad4a5167d21cd498.pdf) 中药饮片医保报销部分。
@@ -21,18 +20,18 @@
 > 
 > [**北京饮片集采**](https://ybj.beijing.gov.cn/zczxs/2020_ycgga/202312/t20231227_3514828.html)关于开展中药饮片生产企业用户注册工作的通知。
 > 
-# 办公工具：
+### 办公工具：
 > [**文档格式转换**](https://www.aconvert.com/cn/) 在线转换各类PDF、文档、电子书、图像、图标、视频、音频和压缩文件。
 > 
 > [**配音临时使用**](http://www.51taojinge.com/include/voice/voice.php) 一款免费的在线配音网站。
 > 
 
 
-# 娱乐：
+### 娱乐：
 > [［小游戏］](https://poki.com/zh)
 > [［街机］](https://www.yikm.net/)
 
-# 联系我：
+### 联系我：
 
 电话(同微信)：15930045985
 

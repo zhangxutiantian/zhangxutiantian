@@ -1,7 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](tu/logo.png)
-
+<img src="/图/logo-.png" width = "180" height = "180"  />
 
 ### 以中药之史，鉴文化之源。
 
@@ -9,5 +8,4 @@
 - 江河(jiāng hé)指长江和黄河或大河的泛称。
 
 [一方药业](http://www.hebeiyifang.com/)
-[URL](#其他)
 [GitHub](https://github.com/zhangxutiantian)
