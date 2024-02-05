@@ -25,15 +25,5 @@
 > 
 > [**配音临时使用**](http://www.51taojinge.com/include/voice/voice.php) 一款免费的在线配音网站。
 > 
-
-
-### 娱乐：
-> [［小游戏］](https://poki.com/zh)
-> [［街机］](https://www.yikm.net/)
-
-### 联系我：
-
-电话(同微信)：15930045985
-
-邮箱：1517000700@qq.com
+> [**第一PPT**](https://www.1ppt.com/) ppt背景图片，ppt模板免费下载。
 
