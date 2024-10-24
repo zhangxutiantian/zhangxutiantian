@@ -5,6 +5,10 @@
 > [**中药饮片医保目录**](http://www.nhsa.gov.cn/module/download/downfile.jsp?classid=0&filename=f8ece5b4d0464b59ad4a5167d21cd498.pdf) 中药饮片医保报销部分。
 > 
 > [**医保编码**](https://code.nhsa.gov.cn/toSearch.html?sysflag=1001)  国家医保信息业务编码标准数据库动态维护。
+>
+> [**国家药监局 关于发布《中药饮片标签管理规定》的公告**](https://www.nmpa.gov.cn/xxgk/fgwj/xzhgfxwj/20230714171402126.html)  保质期的标注自2025年8月1日起施行。
+>
+> [**国家药监局 中药饮片标签撰写指导原则（试行）...**](https://www.nmpa.gov.cn/xxgk/ggtg/ypggtg/ypqtggtg/20230728173518136.html)  说明规格的标注方法。
 > 
 > [**药食同源目录2023**](https://baijiahao.baidu.com/s?id=1784522353452520270&wfr=spider&for=pc) 增加2023年11月17日 《关于党参等9种新增按照传统既是食品又是中药材的物质公告》。
 > 
